@@ -19,7 +19,7 @@ body:
       description: Optional display name or nickname
       placeholder: "PlayStationBro77"
     validations:
-      required: false
+      required: true
 
   - type: input
     id: discord
