@@ -21,15 +21,30 @@ body:
     validations:
       required: false
 
-  - type: textarea
-    id: socials
+  - type: input
+    id: discord
     attributes:
-      label: Optional Socials
-      description: Add any socials (Discord, Twitter/X, PSN, etc.)
-      placeholder: |
-        Discord: @YourName#1234
-        PSN: banana_jones
-        Twitter: @crystalplaya
+      label: Discord (optional)
+      description: Share your Discord tag
+      placeholder: "@YourName#1234"
+    validations:
+      required: false
+
+  - type: input
+    id: psn
+    attributes:
+      label: PSN ID (optional)
+      description: Add your PlayStation Network username
+      placeholder: "banana_jones"
+    validations:
+      required: false
+
+  - type: input
+    id: twitter
+    attributes:
+      label: Twitter/X (optional)
+      description: Add your Twitter/X handle
+      placeholder: "@banana4life"
     validations:
       required: false
 
@@ -37,7 +52,7 @@ body:
     id: notes
     attributes:
       label: Notes or Story
-      description: Anything else you wanna share? (e.g., how you got it, country, etc.)
+      description: Anything else you wanna share? (e.g., how you got it, country, fun fact, etc.)
       placeholder: "Won this in a Twitch giveaway!"
     validations:
       required: false
@@ -45,4 +60,5 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Please upload a photo below that clearly shows your console's number.**
+        **Please upload a photo below that clearly shows your console's number. Submissions without a clear image may be rejected.**
+

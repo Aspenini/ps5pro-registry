@@ -30,6 +30,14 @@ main {
     border-radius: 4px;
 }
 .socials {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
     margin-top: 0.5em;
-    font-size: 0.9em;
+}
+.social-box {
+    background: #2a2a2a;
+    padding: 0.4em 0.6em;
+    border-radius: 6px;
+    font-size: 0.85em;
 }

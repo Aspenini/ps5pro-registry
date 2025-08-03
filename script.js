@@ -12,9 +12,9 @@ fetch('data/entries.json')
             <p><strong>${entry.name || 'Anonymous'}</strong></p>
             <p>${entry.notes || ''}</p>
             <div class="socials">
-                ${entry.socials?.discord ? 'Discord: ' + entry.socials.discord + '<br>' : ''}
-                ${entry.socials?.psn ? 'PSN: ' + entry.socials.psn + '<br>' : ''}
-                ${entry.socials?.twitter ? 'Twitter: ' + entry.socials.twitter : ''}
+                ${entry.socials?.discord ? '<div class="social-box">🎮 Discord: ' + entry.socials.discord + '</div>' : ''}
+                ${entry.socials?.psn ? '<div class="social-box">🕹️ PSN: ' + entry.socials.psn + '</div>' : ''}
+                ${entry.socials?.twitter ? '<div class="social-box">🐦 Twitter: ' + entry.socials.twitter + '</div>' : ''}
             </div>
         `;
         container.appendChild(card);
