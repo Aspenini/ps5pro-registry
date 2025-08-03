@@ -31,34 +31,9 @@ The data will be automatically pulled into [`data/entries.json`](./data/entries.
 
 ---
 
-## 🌐 Live Site
-
-You can view the full registry at:  
-**[https://yourusername.github.io/ps5pro-registry/](https://yourusername.github.io/ps5pro-registry/)**
-
-It auto-loads from the latest `entries.json` so new submissions appear after every update.
-
----
-
 ## ⚠️ Disclaimer
 
 > **🚨 Everything you submit is public.**
 >
 > Please **do not include private or sensitive info**
 > This site is publicly viewable, and all submissions are visible on GitHub.
-
----
-
-## 🧠 Technical Overview
-
-- Static frontend (HTML/CSS/JS) hosted via GitHub Pages
-- Community data stored in `entries.json`
-- GitHub Action auto-updates the data file every 6 hours by parsing open issues
-- Images must be uploaded directly in the GitHub issue (via comment or form)
-
----
-
-
----
-
-💙 Built with open tools and PlayStation love
