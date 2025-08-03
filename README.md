@@ -14,7 +14,7 @@
 
 Welcome to the **PS5 Pro 30th Registry** — a fan-made community project to track and showcase the 12,300 uniquely numbered **PlayStation 5 Pro 30th Anniversary consoles** made worldwide.
 
-This registry is fully public, automatically updated, and built by fans for fans. 🖤
+This registry is fully public and built by fans for fans. 🖤
 
 ---
 
