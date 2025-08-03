@@ -37,3 +37,19 @@ The data will be automatically pulled into [`data/entries.json`](./data/entries.
 >
 > Please **do not include private or sensitive info**
 > This site is publicly viewable, and all submissions are visible on GitHub.
+
+<h2 align="center">
+
+<a href="https://github.com/Aspenini/ps5pro-registry/issues?q=is%3Aissue+label%3Aapproved">
+  <img src="https://img.shields.io/github/issues-search?query=is%3Aissue+label%3Aapproved+repo%3AAspenini%2Fps5pro-registry&label=Approved&style=for-the-badge&color=8BA503" />
+</a>
+
+<a href="https://github.com/Aspenini/ps5pro-registry/issues?q=is%3Aissue+label%3Aduplicate">
+  <img src="https://img.shields.io/github/issues-search?query=is%3Aissue+label%3Aduplicate+repo%3AAspenini%2Fps5pro-registry&label=Duplicate&style=for-the-badge&color=555D75" />
+</a>
+
+<a>
+  <img src="https://img.shields.io/badge/Total%20Units-12300-black?style=for-the-badge" />
+</a>
+
+</h2>
