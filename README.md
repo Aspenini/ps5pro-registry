@@ -1,3 +1,15 @@
+<h2 align="center">
+
+<a href="https://github.com/Aspenini/ps5pro-registry/issues?q=is%3Aissue+label%3Aapproved">
+  <img src="https://img.shields.io/github/issues-search?query=is%3Aissue+label%3Aapproved+repo%3AAspenini%2Fps5pro-registry&label=Approved&style=for-the-badge&color=8BA503" />
+</a>
+
+<a>
+  <img src="https://img.shields.io/badge/Total%20Units-12300-black?style=for-the-badge" />
+</a>
+
+</h2>
+
 # 🎮 PS5 Pro 30th Anniversary Edition Registry
 
 Welcome to the **PS5 Pro 30th Registry** — a fan-made community project to track and showcase the 12,300 uniquely numbered **PlayStation 5 Pro 30th Anniversary consoles** made worldwide.
@@ -9,7 +21,6 @@ This registry is fully public, automatically updated, and built by fans for fans
 ## 📦 What This Is
 
 - ✅ A public registry of submitted PS5 Pro 30th units
-- 📸 Each entry includes the serial number, photo proof, and optional name/socials
 - 🌍 All info is submitted by the community via [GitHub Issues](../../issues)
 
 ---
@@ -33,23 +44,6 @@ The data will be automatically pulled into [`data/entries.json`](./data/entries.
 
 ## ⚠️ Disclaimer
 
-> **🚨 Everything you submit is public.**
->
-> Please **do not include private or sensitive info**
+> **🚨 Everything you submit is public.**  
+> Please **do not include private or sensitive info**  
 > This site is publicly viewable, and all submissions are visible on GitHub.
-
-<h2 align="center">
-
-<a href="https://github.com/Aspenini/ps5pro-registry/issues?q=is%3Aissue+label%3Aapproved">
-  <img src="https://img.shields.io/github/issues-search?query=is%3Aissue+label%3Aapproved+repo%3AAspenini%2Fps5pro-registry&label=Approved&style=for-the-badge&color=8BA503" />
-</a>
-
-<a href="https://github.com/Aspenini/ps5pro-registry/issues?q=is%3Aissue+label%3Aduplicate">
-  <img src="https://img.shields.io/github/issues-search?query=is%3Aissue+label%3Aduplicate+repo%3AAspenini%2Fps5pro-registry&label=Duplicate&style=for-the-badge&color=555D75" />
-</a>
-
-<a>
-  <img src="https://img.shields.io/badge/Total%20Units-12300-black?style=for-the-badge" />
-</a>
-
-</h2>
