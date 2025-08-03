@@ -1,0 +1,35 @@
+
+body {
+    font-family: sans-serif;
+    background: #111;
+    color: #eee;
+    margin: 0;
+    padding: 0;
+}
+header, footer {
+    text-align: center;
+    padding: 1em;
+    background: #222;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+    padding: 1em;
+}
+.card {
+    background: #1e1e1e;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 1em;
+    width: 300px;
+}
+.card img {
+    width: 100%;
+    border-radius: 4px;
+}
+.socials {
+    margin-top: 0.5em;
+    font-size: 0.9em;
+}

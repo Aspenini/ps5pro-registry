@@ -1,0 +1,48 @@
+name: Submit Your PS5 Pro 30th
+description: Add your unit to the official community registry
+title: "Entry: #XXXX - YourName"
+labels: ["submission"]
+body:
+  - type: input
+    id: number
+    attributes:
+      label: Console Number
+      description: Enter your PS5 Pro 30th serial number (e.g., 00874)
+      placeholder: "00874"
+    validations:
+      required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: Name or Alias
+      description: Optional display name or nickname
+      placeholder: "PlayStationBro77"
+    validations:
+      required: false
+
+  - type: textarea
+    id: socials
+    attributes:
+      label: Optional Socials
+      description: Add any socials (Discord, Twitter/X, PSN, etc.)
+      placeholder: |
+        Discord: @YourName#1234
+        PSN: banana_jones
+        Twitter: @crystalplaya
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes or Story
+      description: Anything else you wanna share? (e.g., how you got it, country, etc.)
+      placeholder: "Won this in a Twitch giveaway!"
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        **Please upload a photo below that clearly shows your console's number.**
