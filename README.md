@@ -38,8 +38,6 @@ This registry is fully public and built by fans for fans. 🖤
    - **Upload a photo of your console's number as proof**
 5. Submit — and you're in!
 
-The data will be automatically pulled into [`data/entries.json`](./data/entries.json) and shown on the site within a few hours.
-
 ---
 
 ## ⚠️ Disclaimer
