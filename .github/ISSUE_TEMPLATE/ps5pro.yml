@@ -1,5 +1,5 @@
 name: Submit Your PS5 Pro 30th
-description: Add your unit to the official community registry
+description: Add your console to the public collector registry!
 title: "Entry: #XXXX - YourName"
 labels: ["submission"]
 body:
@@ -7,7 +7,7 @@ body:
     id: number
     attributes:
       label: Console Number
-      description: Enter your PS5 Pro 30th serial number (e.g., 00874)
+      description: Enter your PS5 Pro 30th Anniversary Edition number (e.g., 00874)
       placeholder: "00874"
     validations:
       required: true
@@ -25,7 +25,6 @@ body:
     id: discord
     attributes:
       label: Discord (optional)
-      description: Share your Discord tag
       placeholder: "@YourName#1234"
     validations:
       required: false
@@ -34,7 +33,6 @@ body:
     id: psn
     attributes:
       label: PSN ID (optional)
-      description: Add your PlayStation Network username
       placeholder: "banana_jones"
     validations:
       required: false
@@ -43,7 +41,6 @@ body:
     id: twitter
     attributes:
       label: Twitter/X (optional)
-      description: Add your Twitter/X handle
       placeholder: "@banana4life"
     validations:
       required: false
@@ -51,14 +48,17 @@ body:
   - type: textarea
     id: notes
     attributes:
-      label: Notes or Story
-      description: Anything else you wanna share? (e.g., how you got it, country, fun fact, etc.)
+      label: Notes or Story (optional)
+      description: How did you get it? Where are you from? Any cool story?
       placeholder: "Won this in a Twitch giveaway!"
     validations:
       required: false
 
-  - type: markdown
+  - type: textarea
+    id: image-upload
     attributes:
-      value: |
-        **Please upload a photo below that clearly shows your console's number. Submissions without a clear image may be rejected.**
-
+      label: Upload a Photo of Your Console
+      description: Drag and drop a photo here showing your PS5 Pro number clearly. If it doesn't work, you can also upload it in the comment section after submitting.
+      placeholder: Drag image here or upload via comment
+    validations:
+      required: true

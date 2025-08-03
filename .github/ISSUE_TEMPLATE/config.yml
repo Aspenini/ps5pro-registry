@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links: []
+issue_templates:
+  - name: Submit Your PS5 Pro 30th
+    description: Add your console to the official public registry!
+    title: "Entry: #XXXX - YourName"
+    labels: ["submission"]
+    file: ps5pro.yml
