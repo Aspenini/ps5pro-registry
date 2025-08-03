@@ -32,9 +32,9 @@ This registry is fully public and built by fans for fans. 🖤
 3. Select **"Submit Your PS5 Pro 30th"**
 4. Fill out the form:
    - Your unit number (e.g., `00874`)
-   - Optional display name
+   - Display name
    - Optional socials: Discord, PSN, Twitter
-   - Story or notes (if you like)
+   - Optional Story or notes
    - **Upload a photo of your console's number as proof**
 5. Submit — and you're in!
 
